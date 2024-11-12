@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "willam.asia",
+        "larklin.dns.navy"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "10.10.0.99/32"
+      ]
+    }
+  ]
+}

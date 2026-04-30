@@ -16,3 +16,7 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,aistudio-pa.clients6.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,android.googleapis.com
+DOMAIN-SUFFIX,withgoogle.com
+DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,play.google.com
+GEOSITE,google

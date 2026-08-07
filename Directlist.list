@@ -116,7 +116,7 @@ DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,hicloud.com
 # 工具/安全/其他
-DOMAIN-SUFFIX,api.cloudflare.com
+DOMAIN,api.cloudflare.com
 DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,tianyancha.com
 DOMAIN-SUFFIX,ipip.net

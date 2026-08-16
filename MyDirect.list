@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,jianshu.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,xueqiu.com
-# 微信核心及朋友圈
+# 微信
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,weixin.qq.com.cn
 DOMAIN-SUFFIX,wechat.com
@@ -36,7 +36,6 @@ DOMAIN-SUFFIX,szextshort.weixin.qq.com
 DOMAIN-SUFFIX,szminorshort.weixin.qq.com
 DOMAIN-SUFFIX,mp.weixin.qq.com
 DOMAIN-SUFFIX,work.weixin.qq.com
-# 微信相关API及资源
 DOMAIN-SUFFIX,api.weixin.qq.com
 DOMAIN-SUFFIX,sh.api.weixin.qq.com
 DOMAIN-SUFFIX,sz.api.weixin.qq.com
@@ -44,41 +43,47 @@ DOMAIN-SUFFIX,hk.api.weixin.qq.com
 DOMAIN-SUFFIX,dns.weixin.qq.com
 DOMAIN-SUFFIX,vweixinf.tc.qq.com
 DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net
-# 腾讯系通用
+# 腾讯
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,gtimg.com
-# 小米核心服务
+# 小米
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,i.mi.com
 DOMAIN-SUFFIX,iot.mi.com
-# 小米云服务及API
-DOMAIN-SUFFIX,account.xiaomi.com
 DOMAIN-SUFFIX,api.io.mi.com
 DOMAIN-SUFFIX,device.io.mi.com
 DOMAIN-SUFFIX,global.market.xiaomi.com
 DOMAIN-SUFFIX,find.api.micloud.xiaomi.net
-DOMAIN-SUFFIX,us.find.api.micloud.xiaomi.net
 DOMAIN-SUFFIX,resolver.msg.global.xiaomi.net
 DOMAIN-SUFFIX,c3-webcname.micloud.xiaomi.net
-# 小米设备固件与更新
 DOMAIN-SUFFIX,update.miui.com
 DOMAIN-SUFFIX,update.intl.miui.com
 DOMAIN-SUFFIX,mcc.intl.inf.miui.com
-# 米家App相关
 DOMAIN-SUFFIX,api.ad.xiaomi.com
 DOMAIN-SUFFIX,stat.pandora.xiaomi.com
 DOMAIN-SUFFIX,appstore.cdn.pandora.xiaomi.com
-# 美的核心服务
+DOMAIN-SUFFIX,m1.miot.com
+DOMAIN-SUFFIX,m2.miot.com
+DOMAIN-SUFFIX,push.micloud.xiaomi.com
+DOMAIN-SUFFIX,ai.xiaomi.com
+DOMAIN-SUFFIX,ntp.xiaomi.com
+DOMAIN-SUFFIX,dl.xiaomi.com
+DOMAIN-SUFFIX,bigota.miwifi.com
+DOMAIN-SUFFIX,miwifi.com
+DOMAIN-SUFFIX,duokan.com
+DOMAIN-SUFFIX,xmcdn.com
+DOMAIN-SUFFIX,account.xiaomi.com
+DOMAIN-SUFFIX,us.find.api.micloud.xiaomi.net
+# 美的
 DOMAIN-SUFFIX,midea.com
 DOMAIN-SUFFIX,midea.com.cn
 DOMAIN-SUFFIX,midea.cn
 DOMAIN-SUFFIX,msmart.midea.com
 DOMAIN-SUFFIX,iot.midea.com
-# 美的App及云服务
 DOMAIN-SUFFIX,module.appmb.com
 DOMAIN-SUFFIX,module.appsmb.com
 DOMAIN-SUFFIX,smartlight-eu.midea.com
@@ -137,7 +142,6 @@ DOMAIN-SUFFIX,segmentfault.com
 DOMAIN-SUFFIX,runoob.com
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,gitee.com
-DOMAIN-SUFFIX,github.com.cn  # 可选，国内镜像
 # 云存储/云服务/CDN
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyundrive.com

@@ -178,6 +178,7 @@ DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,hicloud.com
 # Cloudflare服务
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,api.cloudflare.com
 DOMAIN-SUFFIX,dash.cloudflare.com
 DOMAIN-SUFFIX,cloudflare-dns.com

@@ -1,11 +1,21 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,mofeiyun.com
-# APNs 域名
-DOMAIN-SUFFIX,push.apple.com
-DOMAIN,api.push.apple.com
-DOMAIN,api.development.push.apple.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,xsus
 DOMAIN-KEYWORD,xsus2
+
+# APNs 域名
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN,api.push.apple.com
+DOMAIN,api.development.push.apple.com
+
+# APNs IPv4 兜底
+IP-CIDR,10.10.0.0/8
+
+# APNs IPv6 兜底
+IP-CIDR6,2620:149:a44::/48
+IP-CIDR6,2403:300:a42::/48
+IP-CIDR6,2403:300:a51::/48
+IP-CIDR6,2a01:b740:a42::/48

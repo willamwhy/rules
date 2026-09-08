@@ -146,6 +146,7 @@ DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,qiniu.com
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,upaiyun.com
@@ -162,6 +163,7 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,ntsc.ac.cn
 DOMAIN-SUFFIX,cstnet.cn
+
 # 招聘/生活服务
 DOMAIN-SUFFIX,51job.com
 DOMAIN-SUFFIX,zhaopin.com

@@ -1,6 +1,7 @@
 # 搜索引擎
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,so.com
+DOMAIN-SUFFIX,douban.com
 # 电商
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tmall.com
@@ -18,7 +19,6 @@ DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,sina.com.cn
 DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,tieba.com
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,jianshu.com
@@ -163,7 +163,7 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,ntsc.ac.cn
 DOMAIN-SUFFIX,cstnet.cn
-
+DOMAIN-SUFFIX,huaweicloud.com
 # 招聘/生活服务
 DOMAIN-SUFFIX,51job.com
 DOMAIN-SUFFIX,zhaopin.com
@@ -206,4 +206,12 @@ DOMAIN-SUFFIX,gotvg.com
 DOMAIN-SUFFIX,quanben.io
 DOMAIN-SUFFIX,maclub.net
 DOMAIN-SUFFIX,msftconnecttest.com
+# 镜像源
 DOMAIN-SUFFIX,jihulab.com
+DOMAIN-SUFFIX,novelai.dev
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,sjtu.edu.cn
+DOMAIN-SUFFIX,tsinghua.edu.cn
+DOMAIN-SUFFIX,ustc.edu.cn
+DOMAIN-SUFFIX,zju.edu.cn
+DOMAIN-SUFFIX,nju.edu.cn
